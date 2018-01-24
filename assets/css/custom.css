@@ -1,0 +1,71 @@
+.texture1 {
+    background: url(../images/boxed.png) repeat 0 0;
+}
+
+.overlay {
+
+    left: 0;
+    top: 0;
+    width: 100%;
+
+    background-color: #4FD1E1;
+}
+ .item {
+    /* position: relative; */
+    background-color: #fff;
+    text-align: center;
+    margin: 0.5em 1em;
+    padding: 1.85em 1.85em 5em;
+    font-weight: 400;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+ .half-line{
+     width: 30%;
+     margin: 0 auto;
+     background: #fff;
+     height: 1px;
+     margin-bottom: 15px;
+ }
+ .half-line-black{
+     width: 30%;
+     margin: 0 auto;
+     background: black;
+     height: 1px;
+     margin-bottom: 15px;
+ }
+.mu-title-area {
+    display: inline;
+    float: left;
+    text-align: center;
+    padding: 0 120px;
+    width: 100%;
+    padding-top: 59px;
+}
+.mu-about-right {
+    margin-top: -38px;
+    text-align: justify;
+
+}
+.margin-top{
+    margin-top: 59px;
+}
+.img-circle {
+    border-radius: 50%;
+
+    height: 183px;
+}
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: -15px;
+    margin-left: -15px;
+    height: 64px;
+
+}
+header{
+    background-color: #4ECFDF;
+    color: #fff;
+}
